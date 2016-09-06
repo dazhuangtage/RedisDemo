@@ -1,0 +1,1 @@
+G:\RedisDemo\TestAppliction\bin\Debug\TestAppliction.exe.config

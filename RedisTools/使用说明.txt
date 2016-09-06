@@ -1,0 +1,5 @@
+﻿<configSections>
+   <section name="RedisTools" type="RedisTools.RedisConfig, RedisTools"/>
+</configSections>
+<RedisTools WriteServerList="freep456187@127.0.0.1:6379" ReadServerList="freep456187@127.0.0.1:6379" MaxWritePoolSize="60"
+ 　 MaxReadPoolSize="60" AutoStart="true" LocalCacheTime="180" RecordeLog="false"/>
