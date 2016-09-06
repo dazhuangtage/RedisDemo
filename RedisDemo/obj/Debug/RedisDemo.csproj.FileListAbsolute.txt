@@ -1,0 +1,1 @@
+G:\RedisDemo\RedisDemo\bin\Debug\RedisDemo.exe.config
