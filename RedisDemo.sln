@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisDemo", "RedisDemo\RedisDemo.csproj", "{A1E4C524-BC46-46F2-92D0-09834259731D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAppliction", "TestAppliction\TestAppliction.csproj", "{2FA63FE6-37D0-49AA-A446-867A8001B913}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisTools", "RedisTools\RedisTools.csproj", "{F442A012-4321-496A-880C-ECC4CFD73217}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A1E4C524-BC46-46F2-92D0-09834259731D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1E4C524-BC46-46F2-92D0-09834259731D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1E4C524-BC46-46F2-92D0-09834259731D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{2FA63FE6-37D0-49AA-A446-867A8001B913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2FA63FE6-37D0-49AA-A446-867A8001B913}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2FA63FE6-37D0-49AA-A446-867A8001B913}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2FA63FE6-37D0-49AA-A446-867A8001B913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F442A012-4321-496A-880C-ECC4CFD73217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F442A012-4321-496A-880C-ECC4CFD73217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F442A012-4321-496A-880C-ECC4CFD73217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F442A012-4321-496A-880C-ECC4CFD73217}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

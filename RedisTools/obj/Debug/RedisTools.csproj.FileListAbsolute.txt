@@ -1,0 +1,13 @@
+G:\RedisDemo\RedisTools\bin\Debug\RedisTools.dll
+G:\RedisDemo\RedisTools\bin\Debug\RedisTools.pdb
+G:\RedisDemo\RedisTools\bin\Debug\ServiceStack.Client.dll
+G:\RedisDemo\RedisTools\bin\Debug\ServiceStack.Common.dll
+G:\RedisDemo\RedisTools\bin\Debug\ServiceStack.Interfaces.dll
+G:\RedisDemo\RedisTools\bin\Debug\ServiceStack.Redis.dll
+G:\RedisDemo\RedisTools\bin\Debug\ServiceStack.Text.dll
+G:\RedisDemo\RedisTools\bin\Debug\ServiceStack.Client.xml
+G:\RedisDemo\RedisTools\bin\Debug\ServiceStack.Common.xml
+G:\RedisDemo\RedisTools\bin\Debug\ServiceStack.Redis.xml
+G:\RedisDemo\RedisTools\bin\Debug\ServiceStack.Text.xml
+G:\RedisDemo\RedisTools\obj\Debug\RedisTools.dll
+G:\RedisDemo\RedisTools\obj\Debug\RedisTools.pdb

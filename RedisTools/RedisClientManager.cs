@@ -23,7 +23,7 @@ namespace RedisTools
         {
             if (_pooled == null)
             {
-                lock (_pooled)
+                lock (new object())
                 {
 
                     if (_pooled == null)

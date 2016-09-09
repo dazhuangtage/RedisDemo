@@ -25,3 +25,5 @@ G:\RedisDemo\RedisDemo\bin\Debug\Microsoft.Practices.ServiceLocation.xml
 G:\RedisDemo\RedisDemo\bin\Debug\Microsoft.Practices.Unity.xml
 G:\RedisDemo\RedisDemo\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
 G:\RedisDemo\RedisDemo\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\RedisDemo\RedisDemo\bin\Debug\RedisTools.dll
+G:\RedisDemo\RedisDemo\bin\Debug\RedisTools.pdb

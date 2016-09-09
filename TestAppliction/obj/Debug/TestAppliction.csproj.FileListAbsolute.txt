@@ -1,1 +1,6 @@
 G:\RedisDemo\TestAppliction\bin\Debug\TestAppliction.exe.config
+G:\RedisDemo\TestAppliction\bin\Debug\TestAppliction.exe
+G:\RedisDemo\TestAppliction\bin\Debug\TestAppliction.pdb
+G:\RedisDemo\TestAppliction\obj\Debug\TestAppliction.csprojResolveAssemblyReference.cache
+G:\RedisDemo\TestAppliction\obj\Debug\TestAppliction.exe
+G:\RedisDemo\TestAppliction\obj\Debug\TestAppliction.pdb
